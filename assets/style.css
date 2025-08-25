@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+    background: linear-gradient(to top, #015E8C, #BFD5E3, #6AA9FF);
+    background-attachment: fixed;
+    overscroll-behavior: none;
+
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.app-container {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
